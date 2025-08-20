@@ -286,7 +286,7 @@
           <mxGeometry x="115.75" y="753" width="170.75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="34jZ-r2ggN83q7WSebQB-133" value="\[{K_s} = 2\pi f = \frac{{2\pi {\rm{Pn}}161}}{2}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="504.25" y="630" width="145.75" height="30" as="geometry" />
+          <mxGeometry x="480" y="663.5" width="145.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="34jZ-r2ggN83q7WSebQB-134" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.507;exitY=0.103;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="34jZ-r2ggN83q7WSebQB-82" target="34jZ-r2ggN83q7WSebQB-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -298,22 +298,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="34jZ-r2ggN83q7WSebQB-136" value="\[{T_l} = \frac{2}{{2\pi f}} + {\rm{Pn}}164\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="504.25" y="666" width="145.75" height="30" as="geometry" />
+          <mxGeometry x="480" y="699.5" width="145.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="34jZ-r2ggN83q7WSebQB-137" value="\[{T_h} = \frac{2}{{2\pi f}} + {\rm{Pn}}165\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="504.25" y="702" width="145.75" height="30" as="geometry" />
+          <mxGeometry x="480" y="735.5" width="145.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="34jZ-r2ggN83q7WSebQB-139" value="\[{K_d} = \frac{{{\rm{Pn}}165}}{{100}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="504.25" y="737" width="145.75" height="30" as="geometry" />
+          <mxGeometry x="480" y="770.5" width="145.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="34jZ-r2ggN83q7WSebQB-140" value="\[{K_d} = \frac{{{\rm{Pn}}165}}{{100}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="504.25" y="773" width="145.75" height="30" as="geometry" />
+          <mxGeometry x="480" y="806.5" width="145.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="34jZ-r2ggN83q7WSebQB-141" value="\[{T_{h1}} = \frac{1}{{2\pi {\rm{Pn}}167}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="620" width="120" height="30" as="geometry" />
+          <mxGeometry x="665.75" y="653.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="34jZ-r2ggN83q7WSebQB-142" value="\[{K_{d1}} = \frac{{{\rm{Pn}}166}}{{100}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="665" width="120" height="30" as="geometry" />
+          <mxGeometry x="665.75" y="698.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="34jZ-r2ggN83q7WSebQB-143" value="转动刚体的属性模型为&amp;nbsp;\(\frac{{{\rm{d}}\omega }}{{{\rm{d}}t}} = \frac{1}{J}{T_e}\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="27.62" y="820" width="212.38" height="30" as="geometry" />
@@ -364,7 +364,7 @@
           <mxGeometry x="140" y="1095" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="34jZ-r2ggN83q7WSebQB-161" value="设置L矩阵，\(L = \left[ {{K_s}} \right]\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="333.88" y="1040" width="120" height="30" as="geometry" />
+          <mxGeometry x="333.88" y="1040" width="126.12" height="30" as="geometry" />
         </mxCell>
         <mxCell id="34jZ-r2ggN83q7WSebQB-162" value="状态变量：\(x = \omega \)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="863" width="120" height="30" as="geometry" />
@@ -406,7 +406,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="34jZ-r2ggN83q7WSebQB-172" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;\[{K_s}\]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="296.5" y="1320" width="40" height="40" as="geometry" />
+          <mxGeometry x="280" y="1320" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="34jZ-r2ggN83q7WSebQB-175" value="-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="370" y="1300" width="24.25" height="20" as="geometry" />
@@ -485,6 +485,150 @@
         </mxCell>
         <mxCell id="34jZ-r2ggN83q7WSebQB-198" value="A型振动抑制整体框图" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6600CC;" vertex="1" parent="1">
           <mxGeometry x="20" y="260" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-199" value="观测器的离散化" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6600CC;" vertex="1" parent="1">
+          <mxGeometry x="25.06" y="1360" width="99.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-200" value="积分器采用后向差分法&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1490" width="147.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-201" value="\[\dot {\hat \omega}&amp;nbsp; = \frac{1}{J}{T_e} + {K_s}\left( {\omega&amp;nbsp; - \hat \omega } \right)\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1420" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-202" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1430" width="83.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-203" value="Laplace Transfer" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1410" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-204" value="\[err \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="340.87" y="1315" width="39.13" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-205" value="\[s\hat \omega \left( s \right) = \frac{1}{J}{T_e}\left( s \right) + {K_s}err\left( s \right)\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1420" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-207" value="\[s = \frac{{1 - {z^{ - 1}}}}{{{T_s}}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1485" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-208" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="1500" width="83.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-209" value="\[\frac{{1 - {z^{ - 1}}}}{{{T_s}}}\hat \omega \left( z \right) = \frac{1}{J}{T_e}\left( z \right) + {K_s}err\left( z \right)\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1495" width="285" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-211" value="\[\hat \omega \left( z \right) = {T_s}\left[ {\frac{1}{J}{T_e}\left( z \right) + {K_s}err\left( z \right)} \right] + {z^{ - 1}}\hat \omega \left( z \right)\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="349" y="1550" width="315" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-212" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="253" y="1550" width="83.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-213" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(121, 94, 38);&quot;&gt;参数标定位于ResVibCalculatePrm函数&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="490" y="613.5" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-214" value="ResBibCttl.c" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="700.75" y="110" width="61.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-216" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;观测器部分的伪代码：&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;u1&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(34, 34, 34);&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; 电机速度 - 观测器速度&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 128, 0);&quot;&gt;; //err 表示振动速度&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;x1&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(34, 34, 34);&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; u1 * Ks&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 128, 0);&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;x2&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(34, 34, 34);&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; 转矩给定 * Kj&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 128, 0);&quot;&gt;; // Kj是用惯量J定标后的参数&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;观测器速度 = 观测器速度 + x1 + x2&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 128, 0);&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="29.99999999999999" y="1580" width="370" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-217" value="低通滤波器" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6600CC;" vertex="1" parent="1">
+          <mxGeometry x="17.37" y="1699" width="99.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-218" value="滤波时间:&amp;nbsp; \( T_x\)，采样时间:&amp;nbsp; \( T_s\)&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="42.19" y="1729" width="177.81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-219" value="&lt;div style=&quot;color: rgb(0, 0, 0); font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(121, 94, 38);&quot;&gt;A型振动抑制计算函数&lt;/span&gt;&lt;span style=&quot;color: rgb(121, 94, 38); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;ResVibATypeResVibCtrl&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="255" width="335" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-220" value="低通滤波器的传递函数" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30.000000000000004" y="1780" width="152.69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-221" value="\[G\left( s \right) = \frac{{X\left( s \right)}}{{U\left( s \right)}} = \frac{1}{{{T_x}s + 1}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="166.03" y="1780" width="152.69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-222" value="离散化采用后向差分法&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="346.5" y="1780" width="147.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-223" value="\[s = \frac{{1 - {z^{ - 1}}}}{{{T_s}}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="486.5" y="1775" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-224" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="92.38" y="1850" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-225" value="输入用U表示，输出用X表示" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="271.09000000000003" y="1729" width="177.81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-226" value="\[\frac{{X\left( z \right)}}{{U\left( z \right)}} = \frac{1}{{{T_x}\frac{{1 - {z^{ - 1}}}}{{{T_s}}} + 1}} = \frac{{{T_s}}}{{{T_x}\left( {1 - {z^{ - 1}}} \right) + {T_s}}} = \frac{{{T_s}}}{{{T_x} + {T_s} - {T_x}{z^{ - 1}}}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="153.01" y="1830" width="456.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-227" value="\[X\left( z \right) = \frac{{{T_s}}}{{{T_x} + {T_s}}}U\left( z \right) + \frac{{{T_x}}}{{{T_x} + {T_s}}}{z^{ - 1}}X\left( z \right) = \frac{{{T_s}}}{{{T_x} + {T_s}}}U\left( z \right) + {z^{ - 1}}X\left( z \right) - \frac{{{T_s}}}{{{T_x} + {T_s}}}{z^{ - 1}}X\left( z \right)\]" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="153.01" y="1890" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-228" value="\[\frac{{{T_s}}}{{{T_x} + {T_s}}} = {K_{lpf}}\]" style="text;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="43.01" y="1950" width="76.99" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-229" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1910" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-230" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="25.240000000000002" y="1990" width="110.87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-231" value="令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="17.37" y="1960" width="22.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-232" value="\[x\left( n \right) = x\left( {n - 1} \right) + {K_{lpf}}\left[ {u\left( n \right) - x\left( {n - 1} \right)} \right]\]" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="156.11" y="1970" width="282.13" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-233" value="高通滤波器" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6600CC;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2040" width="99.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-234" value="滤波时间:&amp;nbsp; \( T_x\)，采样时间:&amp;nbsp; \( T_s\)&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="44.81999999999999" y="2070" width="177.81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-235" value="低通滤波器的传递函数" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="32.63" y="2121" width="152.69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-236" value="\[G\left( s \right) = \frac{{X\left( s \right)}}{{U\left( s \right)}} = \frac{{{T_x}s}}{{{T_x}s + 1}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="168.66" y="2121" width="152.69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-237" value="离散化采用后向差分法&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="349.13" y="2121" width="147.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-238" value="\[s = \frac{{1 - {z^{ - 1}}}}{{{T_s}}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="489.13" y="2116" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-239" value="输入用U表示，输出用X表示" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="273.72" y="2070" width="177.81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-240" value="\[\frac{{X\left( z \right)}}{{U\left( z \right)}} = \frac{{{T_x}\frac{{1 - {z^{ - 1}}}}{{{T_s}}}}}{{{T_x}\frac{{1 - {z^{ - 1}}}}{{{T_s}}} + 1}} = \frac{{{T_x} - {T_x}{z^{ - 1}}}}{{{T_x} - {T_x}{z^{ - 1}} + {T_s}}}\]" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="175" y="2156" width="430" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-241" value="\[X\left( z \right) = \frac{{{T_x}}}{{{T_x} + {T_s}}}\left[ {U\left( z \right) + {z^{ - 1}}X\left( z \right) - {z^{ - 1}}U\left( z \right)} \right] = \left( {1 - \frac{{{T_s}}}{{{T_x} + {T_s}}}} \right)\left[ {U\left( z \right) + {z^{ - 1}}X\left( z \right) - {z^{ - 1}}U\left( z \right)} \right]\]" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="156.11" y="2230" width="623.89" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-242" value="\[\frac{{{T_s}}}{{{T_x} + {T_s}}} = {K_{hpf}}\]" style="text;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="49.399999999999984" y="2360" width="76.99" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-243" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="31.630000000000003" y="2400" width="110.87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-244" value="令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="23.759999999999998" y="2370" width="22.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-245" value="\[x\left( n \right) = \left[ {u\left( n \right) + x\left( {n - 1} \right) - u\left( {n - 1} \right)} \right] - {K_{hpf}}\left[ {u\left( n \right) + x\left( {n - 1} \right) - u\left( {n - 1} \right)} \right]\]" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2380" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-246" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="29.130000000000003" y="2470" width="110.87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-247" value="\[z = u - x\]" style="text;whiteSpace=wrap;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="47.870000000000005" y="2440" width="76.99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-248" value="令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="25.24" y="2440" width="22.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34jZ-r2ggN83q7WSebQB-249" value="\[x\left( n \right) = \left[ {u\left( n \right) - z\left( {n - 1} \right)} \right] - {K_{hpf}}\left[ {u\left( n \right) - z\left( {n - 1} \right)} \right]\]" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="156.11" y="2450" width="560" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
