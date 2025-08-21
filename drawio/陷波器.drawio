@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0">
   <diagram name="第 1 页" id="FaE2WmmqIbeJhJUzbk5Q">
-    <mxGraphModel dx="987" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2468" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,11 +120,86 @@
         <mxCell id="cV3VLb_g4MpRarHLT8mB-30" value="\[\left| {H\left( {j\omega } \right)} \right| = \sqrt {\frac{{{{\left( {{\omega _n}^2 - {\omega ^2}} \right)}^2} + {{\left( {KB{\omega _n}\omega } \right)}^2}}}{{{{\left( {{\omega _n}^2 - {\omega ^2}} \right)}^2} + {{\left( {B{\omega _n}\omega } \right)}^2}}}} \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="121" y="400" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cV3VLb_g4MpRarHLT8mB-31" value="&#xa;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;陷波深度表示在中心频率点输入与输出之间的关系比值。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="56.5" y="570" width="399" height="30" as="geometry" />
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-31" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;陷波深度表示在中心频率点输入与输出之间的关系比值。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="56.5" y="520" width="399" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cV3VLb_g4MpRarHLT8mB-32" value="陷波深度" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6600CC;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-32" value="陷波深度 K" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6600CC;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="30" y="490" width="134.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-34" value="\[\left| {H\left( {j\omega } \right)} \right| = \sqrt {\frac{{{{\left( {KB{\omega _n}\omega } \right)}^2}}}{{{{\left( {B{\omega _n}\omega } \right)}^2}}}}&amp;nbsp; = K\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="180" y="550" width="235.06" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-35" value="当 \(\omega&amp;nbsp; = {\omega _n}\) 时，" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="74.25" y="557.5" width="163.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-36" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;陷波中心点的幅值衰减为\(20\lg K\)。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="421" y="557.5" width="229" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-38" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;例，K=0.001时，衰减为-40dB。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="74.25" y="617.5" width="245.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-39" value="陷波深度 B" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6600CC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="720" width="134.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-40" value="&lt;span style=&quot;background-color: rgb(255, 255, 255); white-space: pre; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;陷波宽度表示陷波衰减赋值为-3dB的频率带宽。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="750" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-41" value="\[B = \frac{{{\omega _2} - {\omega _1}}}{{{\omega _n}}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="410" y="750" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-42" value="&lt;br&gt;&lt;div style=&quot;line-height: 19px; color: rgb(0, 0, 0);&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 14px; font-weight: normal; white-space: pre;&quot;&gt;由于 K &amp;lt;&amp;lt; 1 ，所以 &lt;/span&gt;&lt;font color=&quot;#222222&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;\(\left| {H\left( {j\omega } \right)} \right|\)&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 14px; font-weight: normal; white-space: pre;&quot;&gt; 表达式中的 &lt;/span&gt;&lt;font color=&quot;#222222&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;\({\left( {KB{\omega _n}\omega } \right)^2}\)&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 14px; font-weight: normal; white-space: pre;&quot;&gt; 可以忽略不计。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="780" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-43" value="令 \(\left| {H\left( {j\omega } \right)} \right| = \frac{{\sqrt 2 }}{2}\)，则" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="840" width="165.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-44" value="\[{\left| {H\left( {j\omega } \right)} \right|^2} = \frac{{{{\left( {{\omega _n}^2 - {\omega ^2}} \right)}^2}}}{{{{\left( {{\omega _n}^2 - {\omega ^2}} \right)}^2} + {{\left( {B{\omega _n}\omega } \right)}^2}}} = \frac{1}{2}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="237.13" y="840" width="202.87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-46" value="\[{\left( {{\omega _n}^2 - {\omega ^2}} \right)^2} - {\left( {B{\omega _n}\omega } \right)^2} = 0\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="900" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-48" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="106" y="910" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-49" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="391" y="910" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-51" value="\[{\omega ^4} - \left( {2 + {B^2}} \right){\omega _n}^2{\omega ^2} + {\omega _n}^4 = 0\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="450" y="900" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-54" value="\[{\omega _1}^2 + {\omega _2}^2 = \left( {2 + {B^2}} \right){\omega _n}^2\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="56.00000000000001" y="960" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-55" value="\[{\omega _1}^2{\omega _2}^2 = {\omega _n}^4\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="56.00000000000001" y="990" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-56" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="36.00000000000001" y="970" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-57" value="\[{\left( {{\omega _1} - {\omega _2}} \right)^2} = {\omega _1}^2 + {\omega _2}^2 - 2{\omega _1}^2{\omega _2}^2 = \left( {2 + {B^2}} \right){\omega _n}^2 - 2{\omega _n}^4 = {B^2}{\omega _n}^2\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="306" y="980" width="504" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-58" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="250" y="990" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-59" value="\[{\omega _1} - {\omega _2} = B{\omega _n}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1030" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-60" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="197.13" y="1040" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-61" value="\[B = \frac{{{\omega _1} - {\omega _2}}}{{{\omega _n}}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1030" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-62" value="离散化" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6600CC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1190" width="134.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-63" value="\[s = \frac{2}{T}\frac{{1 - {z^{ - 1}}}}{{1 + {z^{ - 1}}}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="191" y="1235" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-64" value="离散化采用双线性变换法 ，&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="17.19" y="1240" width="202.81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
