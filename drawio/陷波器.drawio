@@ -1,9 +1,131 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0">
   <diagram name="第 1 页" id="FaE2WmmqIbeJhJUzbk5Q">
-    <mxGraphModel>
+    <mxGraphModel dx="987" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-1" value="陷波器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontFamily=Comic Sans MS;fontColor=#3333FF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="40" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-2" value="&lt;div style=&quot;color: rgb(0, 0, 0); font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;陷波器是一种特殊的带阻滤波器，阻带非常狭窄，在一个特殊的频率点迅速衰减输入信号，达到陷波效果。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;labelBackgroundColor=none;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="720" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;传递函数：&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="36" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-4" value="\[H\left( s \right) = \frac{{{s^2} + KB{\omega _n}s + {\omega _n}^2}}{{{s^2} + B{\omega _n}s + {\omega _n}^2}}\]" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="110" y="136" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-5" value="&lt;span style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;陷波器的三个参数:&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Comic Sans MS;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="36" y="210" width="180" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;ol style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;ω&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/span&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;katex-html&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span style=&quot;height: 0.15em;&quot; class=&quot;vlist&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;: 陷波中心点频率&lt;/li&gt;&lt;li&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow&gt;&lt;mi&gt;&lt;br&gt;&lt;/mi&gt;&lt;mi&gt;&lt;/mi&gt;&lt;mi&gt;K&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;: 陷波深度等级&lt;/li&gt;&lt;li&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;: 陷波宽度等级&lt;/li&gt;&lt;/ol&gt;" link="&lt;ol style=&quot;color: rgb(85, 85, 85); font-family: Lato, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;ω&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height: 0.58056em; vertical-align: -0.15em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right: 0.03588em;&quot;&gt;ω&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height: 0.151392em;&quot;&gt;&lt;span style=&quot;top: -2.55em; margin-left: -0.03588em; margin-right: 0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height: 2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;n&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height: 0.15em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;: 陷波中心点频率&lt;/li&gt;&lt;li&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow&gt;&lt;mi&gt;K&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height: 0.68333em; vertical-align: 0em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right: 0.07153em;&quot;&gt;K&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;: 陷波深度等级&lt;/li&gt;&lt;li&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height: 0.68333em; vertical-align: 0em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right: 0.05017em;&quot;&gt;B&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;: 陷波宽度等级&lt;/li&gt;&lt;/ol&gt;" id="cV3VLb_g4MpRarHLT8mB-6">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Comic Sans MS;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
+            <mxGeometry x="180" y="200" width="260" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="260" as="sourcePoint" />
+            <mxPoint x="740" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="370" as="sourcePoint" />
+            <mxPoint x="480" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-9" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="340" as="sourcePoint" />
+            <mxPoint x="580" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-10" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="340" as="sourcePoint" />
+            <mxPoint x="640" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;\[\omega \]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-13" value="\[20{\rm{Lg}}\left| {H\left( {j\omega } \right)} \right|\]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="165" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="271" as="sourcePoint" />
+            <mxPoint x="720" y="271" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-16" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="460" y="245" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-17" value="-3dB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="457" y="260" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-18" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="260" as="sourcePoint" />
+            <mxPoint x="580" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-19" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="260" as="sourcePoint" />
+            <mxPoint x="730" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-20" value="" style="endArrow=none;html=1;rounded=0;fontColor=#00CC00;strokeColor=#00CC00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="598" y="270" as="sourcePoint" />
+            <mxPoint x="598" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-21" value="" style="endArrow=none;html=1;rounded=0;fontColor=#00CC00;strokeColor=#00CC00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="622" y="270" as="sourcePoint" />
+            <mxPoint x="622" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-22" value="" style="endArrow=none;html=1;rounded=0;fontColor=#00CC00;strokeColor=#00CC00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="260" as="sourcePoint" />
+            <mxPoint x="610" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-23" value="\[{{\omega _n}}\]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="600" y="234" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-24" value="\[{{\omega _2}}\]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="620" y="235" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-25" value="\[{{\omega _1}}\]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="583" y="235" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-26" value="&lt;div style=&quot;color: rgb(0, 0, 0); font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;令 \(s=j\omega\)，&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="330" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-28" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;\[H\left( {j\omega } \right) = \frac{{{\omega _n}^2 - {\omega ^2} + jKB{\omega _n}\omega }}{{{\omega _n}^2 - {\omega ^2} + jB{\omega _n}\omega }}\]&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="136" y="322" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-30" value="\[\left| {H\left( {j\omega } \right)} \right| = \sqrt {\frac{{{{\left( {{\omega _n}^2 - {\omega ^2}} \right)}^2} + {{\left( {KB{\omega _n}\omega } \right)}^2}}}{{{{\left( {{\omega _n}^2 - {\omega ^2}} \right)}^2} + {{\left( {B{\omega _n}\omega } \right)}^2}}}} \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="121" y="400" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-31" value="&#xa;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;陷波深度表示在中心频率点输入与输出之间的关系比值。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="56.5" y="570" width="399" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-32" value="陷波深度" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6600CC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="490" width="134.94" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
