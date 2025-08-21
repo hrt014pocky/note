@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0">
   <diagram name="第 1 页" id="FaE2WmmqIbeJhJUzbk5Q">
-    <mxGraphModel dx="790" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="987" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -734,6 +734,12 @@
         </mxCell>
         <mxCell id="cV3VLb_g4MpRarHLT8mB-234" value="-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="420.12" y="2482" width="24.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-236" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 14px; float: none; display: inline !important;&quot;&gt;&amp;nbsp; &amp;nbsp; 汇川SV620代码中将模拟陷波器进行离散化时，使用到了预畸变，这也是代码中三角函数的来源。&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; 安川SGD7代码中将离散化后的分子分母系数转变到k1、k2、k3、k4，写入到ASIC指定地址，数字陷波器的运算在ASIC&amp;nbsp; 内执行。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="31" y="2660" width="759" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cV3VLb_g4MpRarHLT8mB-237" value="\[20\lg A =&amp;nbsp; - 3 \Rightarrow A = {10^{\frac{{ - 3}}{{20}}}} = 0.707946 \approx \frac{{\sqrt 2 }}{2}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=10;fontColor=#994C00;" vertex="1" parent="1">
+          <mxGeometry x="520" y="700" width="246" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
