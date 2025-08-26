@@ -1,9 +1,257 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1">
   <diagram name="第 1 页" id="cft9EPeuipzjOZSwFPJA">
-    <mxGraphModel>
+    <mxGraphModel dx="1039" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FaDLM4dTByP1YgyvcydG-1" value="速度控制器设计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontFamily=Comic Sans MS;fontColor=#3333FF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="274" y="-1140" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaDLM4dTByP1YgyvcydG-2" target="FaDLM4dTByP1YgyvcydG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-2" value="PI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-985" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaDLM4dTByP1YgyvcydG-3" target="FaDLM4dTByP1YgyvcydG-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-3" value="\[{p_0}{\psi _f}\]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="454" y="-985" width="66" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaDLM4dTByP1YgyvcydG-4" target="FaDLM4dTByP1YgyvcydG-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="656" y="-965" as="sourcePoint" />
+            <mxPoint x="746" y="-965" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="716" y="-960" />
+              <mxPoint x="716" y="-960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-4" value="\[\frac{1}{{Js}}\]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-985" width="56" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="-970" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="FaDLM4dTByP1YgyvcydG-5">
+          <mxGeometry width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-7" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="FaDLM4dTByP1YgyvcydG-5" source="FaDLM4dTByP1YgyvcydG-6" target="FaDLM4dTByP1YgyvcydG-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-19.99000000000001" as="sourcePoint" />
+            <mxPoint x="30.00999999999999" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="FaDLM4dTByP1YgyvcydG-5" source="FaDLM4dTByP1YgyvcydG-6" target="FaDLM4dTByP1YgyvcydG-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="-10" as="sourcePoint" />
+            <mxPoint x="29.99000000000001" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaDLM4dTByP1YgyvcydG-10" target="FaDLM4dTByP1YgyvcydG-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="-890" />
+              <mxPoint x="170" y="-890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-10" value="\[\omega \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="686" y="-990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-13" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-985" width="32.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-14" value="-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-950" width="32.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaDLM4dTByP1YgyvcydG-15" target="FaDLM4dTByP1YgyvcydG-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="-960" />
+              <mxPoint x="100" y="-960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-15" value="\[\omega_{ref} \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaDLM4dTByP1YgyvcydG-17" target="FaDLM4dTByP1YgyvcydG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-17" value="电流内环" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-985" width="76" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaDLM4dTByP1YgyvcydG-6" target="FaDLM4dTByP1YgyvcydG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="-970" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="FaDLM4dTByP1YgyvcydG-22">
+          <mxGeometry width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-24" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="FaDLM4dTByP1YgyvcydG-22" source="FaDLM4dTByP1YgyvcydG-23" target="FaDLM4dTByP1YgyvcydG-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-19.99000000000001" as="sourcePoint" />
+            <mxPoint x="30.00999999999999" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="FaDLM4dTByP1YgyvcydG-22" source="FaDLM4dTByP1YgyvcydG-23" target="FaDLM4dTByP1YgyvcydG-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="-10" as="sourcePoint" />
+            <mxPoint x="29.99000000000001" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaDLM4dTByP1YgyvcydG-23" target="FaDLM4dTByP1YgyvcydG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaDLM4dTByP1YgyvcydG-28" target="FaDLM4dTByP1YgyvcydG-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-28" value="\[T_{L} \]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-1030" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-30" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-980" width="32.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-31" value="-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="537" y="-1000" width="32.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-32" value="速度环控制框图" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6600CC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-1070" width="99.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-33" value="\[{G_{PI}}\left( s \right) = \frac{{{k_p}\left( {\tau s + 1} \right)}}{{\tau s}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="230.01" y="-870" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-34" value="串联型PI控制器：" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="46.89" y="-870" width="178.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-35" value="速度环开环传递函数" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="46.88" y="-810" width="178.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-36" value="\[{G_{op}}\left( s \right) = \frac{{A{k_p}\left( {\tau s + 1} \right)}}{{\tau {s^2}\left( {{T_\Sigma } + 1} \right)}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-810" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-37" value="\[A = \frac{{2\pi {I_{qN}}J}}{{60{T_N}}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-810" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-38" value="由于电流环的带宽比速度环大很多，至少是速度环的5倍以上，电流环内环增益等于0dB，所以将电流内环传递函数等效为1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#994C00;" vertex="1" parent="1">
+          <mxGeometry x="42.16" y="-480" width="753.12" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-39" value="速度环开环传递函数等效为" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="42.15999999999999" y="-430" width="243.13" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-40" value="\[{G_{op}}\left( s \right) = \frac{{{k_p}\left( {\tau s + 1} \right)}}{{\tau s}}\frac{A}{s}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="275.28999999999996" y="-430" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-41" value="伯德图" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="46.88" y="-730" width="93.12" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="198.1" y="-605.5" as="sourcePoint" />
+            <mxPoint x="558.1" y="-605.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="198.1" y="-545.5" as="sourcePoint" />
+            <mxPoint x="198.1" y="-730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="218.1" y="-695.5" as="sourcePoint" />
+            <mxPoint x="318.1" y="-625.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="318.1" y="-625.5" as="sourcePoint" />
+            <mxPoint x="438.1" y="-585.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="438.1" y="-585.5" as="sourcePoint" />
+            <mxPoint x="500" y="-540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-47" value="-40dB/dec" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="488.13" y="-584" width="64.37" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-48" value="-40dB/dec" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="228.1" y="-711.5" width="64.37" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-49" value="-20dB/dec" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360.92" y="-665.5" width="64.37" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-50" value="\[{\omega _{PI}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="303.73" y="-575.5" width="24.37" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-52" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="318.1" y="-715.5" as="sourcePoint" />
+            <mxPoint x="318.1" y="-575.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-53" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="438.1" y="-715.5" as="sourcePoint" />
+            <mxPoint x="438.1" y="-575.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-54" value="\[{\omega _{c}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360.92" y="-605.5" width="24.37" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-55" value="\[{\omega _{cc}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="443.73" y="-605.5" width="24.37" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-56" value="当 \(\omega &amp;gt;&amp;nbsp; \omega_{pi}\) 时，PI控制器可以近似看做P控制器。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#994C00;" vertex="1" parent="1">
+          <mxGeometry x="42.16" y="-360" width="753.12" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-57" value="速度环开环传递函数等效为" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="36.86999999999999" y="-300" width="243.13" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-58" value="\[{G_{op}}\left( s \right) = \frac{{{k_p}A}}{s}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-300" width="159.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-59" value="根据&amp;nbsp;\(\left| {{G_{op}}\left( {j{\omega _c}} \right)} \right| = 1\) ,得到" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="419.99" y="-300" width="240.01" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-61" value="\[{k_p} = \frac{{{\omega _c}}}{A}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="656" y="-300" width="93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-62" value="穿越频率至少大于PI转折频率5倍，" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="36.87" y="-240" width="293.13" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-63" value="\[{\omega _{PI}} \le \frac{{{\omega _c}}}{5}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="310.01" y="-240" width="119.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-65" value="\[{\omega _{PI}} = \frac{1}{\tau }\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="639" y="-575.5" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-67" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="420.01" y="-220" width="89.99" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-68" value="\[\tau  = \frac{5}{{{\omega _c}}}\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="519.01" y="-240" width="119.99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-69" value="TS200参数Pn102速度增益代表速度环截止频率f（&lt;span&gt;\({\omega _c} = 2\pi {f_c}\)&lt;/span&gt;），Pn103速度环积分时间常数" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="36.87" y="-180" width="773.13" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-71" value="下面按5倍计算" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="420.01" y="-240" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-72" value="\[{\rm{Pn}}102 \times {\rm{Pn}}103 = {f_c} \times \tau  = {f_c} \times \frac{5}{{2\pi {f_c}}} = \frac{5}{{2\pi }} = 0.795774\]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="36.87" y="-110" width="553.13" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FaDLM4dTByP1YgyvcydG-73" value="刚性表就是按这个0.795774设计的" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="468.09999999999997" y="-70" width="294.55" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
