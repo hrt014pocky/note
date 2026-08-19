@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="wqNFpepxGe8YdoOm0E7Q">
-    <mxGraphModel dx="2456" dy="2508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="573" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -369,7 +369,7 @@
         <mxCell id="AWXg-Pg7-h8zygkH1dqz-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="，单位：米/分钟" vertex="1">
           <mxGeometry height="30" width="310" x="420" y="-270" as="geometry" />
         </mxCell>
-        <mxCell id="AWXg-Pg7-h8zygkH1dqz-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="纱线的当前直径&amp;nbsp;\({d_c} = \frac{{d_p}\times {n_p}}{n_c}\) ，其中\(n_c\) 是卷绕电机的基准速度。" vertex="1">
+        <mxCell id="AWXg-Pg7-h8zygkH1dqz-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="纱线的当前中心店直径&amp;nbsp;\({d_c} = \frac{{d_p}\times {n_p}}{n_c}\) ，其中\(n_c\) 是卷绕电机的基准速度。" vertex="1">
           <mxGeometry height="30" width="497.5" x="80" y="-170" as="geometry" />
         </mxCell>
         <mxCell id="AWXg-Pg7-h8zygkH1dqz-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="小端与大端的卷绕速度比&amp;nbsp;" vertex="1">
