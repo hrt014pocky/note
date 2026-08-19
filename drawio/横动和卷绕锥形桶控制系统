@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="wqNFpepxGe8YdoOm0E7Q">
-    <mxGraphModel dx="982" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2456" dy="2508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,124 +168,124 @@
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-48" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="120" y="-560" as="sourcePoint" />
-            <mxPoint x="120" y="-730" as="targetPoint" />
+            <mxPoint x="180" y="-560" as="sourcePoint" />
+            <mxPoint x="180" y="-710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-49" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="120" y="-560" as="sourcePoint" />
-            <mxPoint x="670" y="-560" as="targetPoint" />
+            <mxPoint x="180" y="-560" as="sourcePoint" />
+            <mxPoint x="730" y="-560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-50" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#FFB570;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="150" y="-580" as="sourcePoint" />
-            <mxPoint x="270" y="-700" as="targetPoint" />
+            <mxPoint x="210" y="-560" as="sourcePoint" />
+            <mxPoint x="330" y="-680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-51" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#FFB570;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="390" y="-580" as="sourcePoint" />
-            <mxPoint x="270" y="-700" as="targetPoint" />
+            <mxPoint x="450" y="-560" as="sourcePoint" />
+            <mxPoint x="330" y="-680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-52" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#FFB570;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="390" y="-580" as="sourcePoint" />
-            <mxPoint x="510" y="-700" as="targetPoint" />
+            <mxPoint x="450" y="-560" as="sourcePoint" />
+            <mxPoint x="570" y="-680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-53" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#FFB570;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="630" y="-580" as="sourcePoint" />
-            <mxPoint x="510" y="-700" as="targetPoint" />
+            <mxPoint x="690" y="-560" as="sourcePoint" />
+            <mxPoint x="570" y="-680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-54" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#FFB570;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="150" y="-580" as="sourcePoint" />
-            <mxPoint x="120" y="-620" as="targetPoint" />
+            <mxPoint x="210" y="-560" as="sourcePoint" />
+            <mxPoint x="180" y="-600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="横动位置/Pulse" vertex="1">
-          <mxGeometry height="30" width="120" x="40" y="-760" as="geometry" />
+          <mxGeometry height="30" width="120" x="100" y="-740" as="geometry" />
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-56" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="120" y="-340" as="sourcePoint" />
-            <mxPoint x="120" y="-510" as="targetPoint" />
+            <mxPoint x="180" y="-350" as="sourcePoint" />
+            <mxPoint x="180" y="-520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-57" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="120" y="-340" as="sourcePoint" />
-            <mxPoint x="670" y="-340" as="targetPoint" />
+            <mxPoint x="180" y="-350" as="sourcePoint" />
+            <mxPoint x="730" y="-350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="卷绕速度/rpm" vertex="1">
-          <mxGeometry height="30" width="100" x="20" y="-540" as="geometry" />
+          <mxGeometry height="30" width="100" x="80" y="-540" as="geometry" />
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-64" edge="1" parent="1" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="-490" />
-              <mxPoint x="210" y="-420" />
-              <mxPoint x="270" y="-350" />
-              <mxPoint x="330" y="-420" />
-              <mxPoint x="390" y="-490" />
-              <mxPoint x="450" y="-420" />
-              <mxPoint x="510" y="-350" />
-              <mxPoint x="570" y="-420" />
-              <mxPoint x="630" y="-480" />
+              <mxPoint x="210" y="-500" />
+              <mxPoint x="270" y="-430" />
+              <mxPoint x="330" y="-360" />
+              <mxPoint x="390" y="-430" />
+              <mxPoint x="450" y="-500" />
+              <mxPoint x="510" y="-430" />
+              <mxPoint x="570" y="-360" />
+              <mxPoint x="630" y="-430" />
+              <mxPoint x="690" y="-490" />
             </Array>
-            <mxPoint x="120" y="-440" as="sourcePoint" />
-            <mxPoint x="670" y="-460" as="targetPoint" />
+            <mxPoint x="180" y="-450" as="sourcePoint" />
+            <mxPoint x="730" y="-470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-65" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="150" y="-330" as="sourcePoint" />
-            <mxPoint x="150" y="-720" as="targetPoint" />
+            <mxPoint x="210" y="-340" as="sourcePoint" />
+            <mxPoint x="210" y="-700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-66" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="270" y="-330" as="sourcePoint" />
-            <mxPoint x="270" y="-730" as="targetPoint" />
+            <mxPoint x="330" y="-340" as="sourcePoint" />
+            <mxPoint x="330" y="-700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-67" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="390" y="-330" as="sourcePoint" />
-            <mxPoint x="390" y="-720" as="targetPoint" />
+            <mxPoint x="450" y="-340" as="sourcePoint" />
+            <mxPoint x="450" y="-700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-68" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="510" y="-330" as="sourcePoint" />
-            <mxPoint x="510" y="-730" as="targetPoint" />
+            <mxPoint x="570" y="-340" as="sourcePoint" />
+            <mxPoint x="570" y="-700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-69" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="630" y="-330" as="sourcePoint" />
-            <mxPoint x="630" y="-740" as="targetPoint" />
+            <mxPoint x="690" y="-340" as="sourcePoint" />
+            <mxPoint x="690" y="-700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="大端位置" vertex="1">
-          <mxGeometry height="30" width="80" x="30" y="-720" as="geometry" />
+          <mxGeometry height="30" width="80" x="90" y="-700" as="geometry" />
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="小端位置" vertex="1">
-          <mxGeometry height="30" width="80" x="30" y="-600" as="geometry" />
+          <mxGeometry height="30" width="80" x="90" y="-580" as="geometry" />
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="卷绕基准速度" vertex="1">
-          <mxGeometry height="30" width="100" y="-440" as="geometry" />
+          <mxGeometry height="30" width="100" x="60" y="-450" as="geometry" />
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-74" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="104" y="-420" as="sourcePoint" />
-            <mxPoint x="724" y="-420" as="targetPoint" />
+            <mxPoint x="164" y="-430" as="sourcePoint" />
+            <mxPoint x="784" y="-430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AWXg-Pg7-h8zygkH1dqz-1" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
@@ -342,14 +342,14 @@
             <mxPoint x="140" y="-940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AWXg-Pg7-h8zygkH1dqz-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;fontSize=14;fontColor=#FF0000;" value="反复动程W" vertex="1">
+        <mxCell id="AWXg-Pg7-h8zygkH1dqz-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;fontSize=14;fontColor=#FF0000;" value="往复动程W" vertex="1">
           <mxGeometry height="30" width="80" x="170" y="-1070" as="geometry" />
         </mxCell>
-        <mxCell id="AWXg-Pg7-h8zygkH1dqz-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="时间/min" vertex="1">
-          <mxGeometry height="30" width="120" x="650" y="-580" as="geometry" />
+        <mxCell id="AWXg-Pg7-h8zygkH1dqz-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="时间/ms" vertex="1">
+          <mxGeometry height="30" width="80" x="710" y="-560" as="geometry" />
         </mxCell>
-        <mxCell id="AWXg-Pg7-h8zygkH1dqz-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="时间/min" vertex="1">
-          <mxGeometry height="30" width="120" x="650" y="-360" as="geometry" />
+        <mxCell id="AWXg-Pg7-h8zygkH1dqz-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="时间/ms" vertex="1">
+          <mxGeometry height="30" width="80" x="710" y="-350" as="geometry" />
         </mxCell>
         <mxCell id="AWXg-Pg7-h8zygkH1dqz-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;fontSize=14;fontColor=#FF0000;" value="空管中心直径dm" vertex="1">
           <mxGeometry height="30" width="120" x="540" y="-1040" as="geometry" />
@@ -358,25 +358,37 @@
           <mxGeometry height="30" width="130" x="645" y="-1040" as="geometry" />
         </mxCell>
         <mxCell id="AWXg-Pg7-h8zygkH1dqz-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="根据压辊转速测到的线速度" vertex="1">
-          <mxGeometry height="30" width="190" x="30" y="-300" as="geometry" />
+          <mxGeometry height="30" width="190" x="80" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="AWXg-Pg7-h8zygkH1dqz-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="\[v = \frac{{\pi&amp;nbsp; \times {d_p} \times {n_p}}}{{1000}}\]" vertex="1">
-          <mxGeometry height="30" width="155" x="225" y="-300" as="geometry" />
+          <mxGeometry height="30" width="155" x="275" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="AWXg-Pg7-h8zygkH1dqz-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="其中，\(&amp;nbsp;{d_p}\) 表示压辊的直径，单位：mm；\( {n_p}\)&amp;nbsp;表示压辊的平均转速，单位：rpm。" vertex="1">
-          <mxGeometry height="30" width="540" x="32.5" y="-260" as="geometry" />
+          <mxGeometry height="30" width="540" x="100" y="-230" as="geometry" />
         </mxCell>
         <mxCell id="AWXg-Pg7-h8zygkH1dqz-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="，单位：米/分钟" vertex="1">
-          <mxGeometry height="30" width="310" x="370" y="-300" as="geometry" />
+          <mxGeometry height="30" width="310" x="420" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="AWXg-Pg7-h8zygkH1dqz-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="纱线的当前直径&amp;nbsp;\({d_c} = \frac{{d_p}\times {n_p}}{n_c}\) ，其中\(n_c\) 是卷绕电机的基准速度。" vertex="1">
-          <mxGeometry height="30" width="497.5" x="32.5" y="-220" as="geometry" />
+          <mxGeometry height="30" width="497.5" x="80" y="-170" as="geometry" />
         </mxCell>
-        <mxCell id="AWXg-Pg7-h8zygkH1dqz-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="小端与大端的卷绕速度比&amp;nbsp;\({n_{ratio}} = \frac{{d{c_2}}}{{d{c_1}}}\)" vertex="1">
-          <mxGeometry height="30" width="497.5" x="32.5" y="-120" as="geometry" />
+        <mxCell id="AWXg-Pg7-h8zygkH1dqz-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="小端与大端的卷绕速度比&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="190" x="80" y="-50" as="geometry" />
         </mxCell>
         <mxCell id="AWXg-Pg7-h8zygkH1dqz-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="纱线厚度&amp;nbsp;\(h = \frac{{{d_c} - {d_m}}}{2}\)，小端当前直径&amp;nbsp; \({dc_1} ^= {d_1} + 2h\)，大端当前直径&amp;nbsp; \({dc_2} ^= {d_2} + 2h\)" vertex="1">
-          <mxGeometry height="30" width="777.5" x="32.5" y="-180" as="geometry" />
+          <mxGeometry height="30" width="687.5" x="80" y="-110" as="geometry" />
+        </mxCell>
+        <mxCell id="AWXg-Pg7-h8zygkH1dqz-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="\[{n_{ratio}} = \frac{{d{c_2}}}{{d{c_1}}}\]" vertex="1">
+          <mxGeometry height="30" width="190" x="257.5" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="AWXg-Pg7-h8zygkH1dqz-27" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6600CC;fontSize=14;" value="纱线示意图" vertex="1">
+          <mxGeometry height="30" width="99.88" x="30" y="-1090" as="geometry" />
+        </mxCell>
+        <mxCell id="AWXg-Pg7-h8zygkH1dqz-28" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6600CC;fontSize=14;" value="卷绕速度追踪波形图" vertex="1">
+          <mxGeometry height="30" width="144.38" x="10" y="-770" as="geometry" />
+        </mxCell>
+        <mxCell id="AWXg-Pg7-h8zygkH1dqz-29" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6600CC;fontSize=14;" value="计算公式" vertex="1">
+          <mxGeometry height="30" width="144.38" x="7.75" y="-320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
