@@ -390,6 +390,12 @@
         <mxCell id="AWXg-Pg7-h8zygkH1dqz-29" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6600CC;fontSize=14;" value="计算公式" vertex="1">
           <mxGeometry height="30" width="144.38" x="7.75" y="-320" as="geometry" />
         </mxCell>
+        <mxCell id="pYQB5_VZIx_I89WVToya-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#FFB570;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="690" y="-560" as="sourcePoint" />
+            <mxPoint x="730" y="-600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
