@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="wqNFpepxGe8YdoOm0E7Q">
-    <mxGraphModel dx="2865" dy="2731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2022" dy="2271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,10 +10,10 @@
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#CCCCFF;" value="" vertex="1">
           <mxGeometry height="30" width="320" x="130" y="-840" as="geometry" />
         </mxCell>
-        <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-9" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;size=35.039999999999964;rotation=262;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-9" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;size=35.039999999999964;rotation=262;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="260" width="130" x="215" y="-1060" as="geometry" />
         </mxCell>
-        <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-13" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0,0.25],[0.8475,0],[0.9125,0.2375],[1,0.80937],[1,1],[0.1125,1],[0.1112,0.80937],[0.0675,0.4775]];polyline=0;fillColor=#dae8fc;polyCurves=[[],[],[],[],[],[],[],[]];points=[[0,0.5,0,0,0]];strokeColor=#6c8ebf;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-13" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0,0.25],[0.8475,0],[0.9125,0.2375],[1,0.80937],[1,1],[0.1125,1],[0.1112,0.80937],[0.0675,0.4775]];polyline=0;fillColor=#f5f5f5;polyCurves=[[],[],[],[],[],[],[],[]];points=[[0,0.5,0,0,0]];strokeColor=#666666;strokeWidth=2;fontColor=#333333;" value="" vertex="1">
           <mxGeometry height="209.88" width="230.38925" x="154.38075" y="-1049.87" as="geometry" />
         </mxCell>
         <mxCell id="JZ0nnO2N0Ju6Gz7HEjiV-14" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
@@ -369,13 +369,13 @@
         <mxCell id="AWXg-Pg7-h8zygkH1dqz-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="，单位：米/分钟" vertex="1">
           <mxGeometry height="30" width="310" x="420" y="-270" as="geometry" />
         </mxCell>
-        <mxCell id="AWXg-Pg7-h8zygkH1dqz-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="纱线的当前中心店直径&amp;nbsp;\({d_c} = \frac{{d_p}\times {n_p}}{n_c}\) ，其中\(n_c\) 是卷绕电机的基准速度。" vertex="1">
-          <mxGeometry height="30" width="497.5" x="80" y="-170" as="geometry" />
+        <mxCell id="AWXg-Pg7-h8zygkH1dqz-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;resizable=1;rotatable=1;cloneable=1;deletable=1;movable=1;editable=1;locked=0;connectable=1;autosize=0;expand=1;recursiveResize=1;container=0;" value="纱线的当前中心店直径&amp;nbsp;\({d_c} = \displaystyle\frac{{d_p}\times {n_p}}{n_c}\) ，其中\(n_c\) 是卷绕电机的基准速度。" vertex="1">
+          <mxGeometry height="30" width="630" x="80" y="-170" as="geometry" />
         </mxCell>
         <mxCell id="AWXg-Pg7-h8zygkH1dqz-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="小端与大端的卷绕速度比&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="190" x="80" y="-50" as="geometry" />
         </mxCell>
-        <mxCell id="AWXg-Pg7-h8zygkH1dqz-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="纱线厚度&amp;nbsp;\(h = \frac{{{d_c} - {d_m}}}{2}\)，小端当前直径&amp;nbsp; \({dc_1} ^= {d_1} + 2h\)，大端当前直径&amp;nbsp; \({dc_2} ^= {d_2} + 2h\)" vertex="1">
+        <mxCell id="AWXg-Pg7-h8zygkH1dqz-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="纱线厚度&amp;nbsp;\(h = \displaystyle\frac{{{d_c} - {d_m}}}{2}\)，小端当前直径&amp;nbsp; \({dc_1} ^= {d_1} + 2h\)，大端当前直径&amp;nbsp; \({dc_2} ^= {d_2} + 2h\)" vertex="1">
           <mxGeometry height="30" width="687.5" x="80" y="-110" as="geometry" />
         </mxCell>
         <mxCell id="AWXg-Pg7-h8zygkH1dqz-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;fontFamily=Comic Sans MS;" value="\[{n_{ratio}} = \frac{{d{c_2}}}{{d{c_1}}}\]" vertex="1">
